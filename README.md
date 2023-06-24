@@ -14,58 +14,10 @@ https://img.shields.io/badge/-LinkedIn%20@SamirPaul-white?style=social&logo=Link
 https://img.shields.io/badge/-Twitter%20@SamirPaulb-white?style=social&logo=twitter&logoColor=blue&link=https://www.twitter.com/SamirPaulb 
 -->
 
-
-<b>*About Me*:</b> 
-
-  🎓 &nbsp;I'm currently studying Electronics and Communication Engineering at National Institute of Technology, Durgapur.\
-  💡 &nbsp;Some technologies I enjoy working with include Python, MySQL, Git, HTML, CSS, C, Linux.\
-  🌱 &nbsp;I'm on track for learning more about Data Structures and Algorithm, Software Development, Systems Design.\
-  👨‍💻 &nbsp;I am practising on [LeetCode](https://leetcode.com/samirpaul1), [CodeChef](https://www.codechef.com/users/samirpaul1), [HackerRank](https://www.hackerrank.com/samirpaul1) and [GeeksforGeeks](https://auth.geeksforgeeks.org/user/samirpaul1/practice).\
-  ✉️ &nbsp;Get in touch with me via email at samirpaulb@gmail.com.
-
-
-
-
- <b> </b>
-
-<b>*GitHub Stats*:</b> 
   
-  <b> </b> 
-  
-  
-<p align="center">
-<table>
-<tr>
-  
-  <td>
-  <a href="https://github.com/SamirPaul1">
-  <img align="center" fetchpriority="high" src="https://github-readme-stats-samirpaul.vercel.app/api?username=SamirPaul1&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Samir's Github Stats" height="180rem" />
-  </a>
-  </td>
-    
-  <td> 
-<a href="https://github.com/SamirPaul1"><img align="center" fetchpriority="high" src="https://github-readme-stats-samirpaul.vercel.app/api/top-langs/?username=SamirPaul1&layout=compact&theme=radical&hide_border=true" height="180rem"/></a>
-  </td>
-    
-</tr>
-</table>
-</p>
-  
-  
-<b>*Languages and Tools*:</b>
-  
-<b> </b>  
-
-<p align="center">
-<a href="https://github.com/SamirPaul1"> 
-<img alt="Python Java C++ C PHP JavaScript HTML CSS MySQL MongoDB Django ReactJS Git Docker Linux" loading="lazy" src="https://scdn.web.app/skills.svg" />
-</a> 
-  <br>
-<a href="https://github.com/SamirPaul1"><img loading="lazy" alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=abqd17yu8rqro3ydcfsv8sie6&cover_image=false&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></a></p>  
-  
-# 📖 Latest Blog posts
+### 📖 Latest Blog posts
 <!-- DEVDOJO:START -->
 <!-- DEVDOJO:END -->
 
-<a href="https://github.com/SamirPaul1"><img width="100%" height="2" loading="lazy" src="https://raw.githubusercontent.com/samirti/SamirPaul1/main/assets/long-colour-linestrip.png" /></a>
 
+<p align="center"><a href="https://github.com/SamirPaul1"><img loading="lazy" alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=abqd17yu8rqro3ydcfsv8sie6&cover_image=false&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></a></p>  
