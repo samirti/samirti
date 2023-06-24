@@ -1,0 +1,19 @@
+name: Latest Blog Post
+on:
+  schedule:
+    # Runs every day
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "https://blog.samirpaul.in/atom.xml"
+          feed_list: "https://blog.samirpaul.in/atom.xml?redirect=false&start-index=1&max-results=500"
+          commit_message: "Update blog posts"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
