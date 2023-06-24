@@ -15,9 +15,9 @@ https://img.shields.io/badge/-Twitter%20@SamirPaulb-white?style=social&logo=twit
 -->
 
   
-### 📖 Latest Blog posts
-<!-- DEVDOJO:START -->
-<!-- DEVDOJO:END -->
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 <p align="center"><a href="https://github.com/SamirPaul1"><img loading="lazy" alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=abqd17yu8rqro3ydcfsv8sie6&cover_image=false&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></a></p>  
