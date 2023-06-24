@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SamirPaul1"> <img loading="lazy" alt="Samir" src="https://scdn.web.app/profile-readme/samir.svg"/> <img loading="lazy" alt="Paul" src="https://scdn.web.app/profile-readme/paul.svg"/> </a>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/SamirPaul"><img loading="lazy" alt="LinkedIn" src="https://scdn.web.app/linkedin-samirpaul.svg"></a> &nbsp; 
   <a href="https://twitter.com/SamirPaulb"><img loading="lazy" alt="Twitter" src="https://scdn.web.app/twitter-samirpaulb.svg"></a> &nbsp; 
   <a href="https://github.com/SamirPaul1"><img loading="lazy" src="https://komarev.com/ghpvc/?username=SamirPaul1" /></a>  
@@ -65,6 +61,11 @@ https://img.shields.io/badge/-Twitter%20@SamirPaulb-white?style=social&logo=twit
 <img alt="Python Java C++ C PHP JavaScript HTML CSS MySQL MongoDB Django ReactJS Git Docker Linux" loading="lazy" src="https://scdn.web.app/skills.svg" />
 </a> 
   <br>
-<a href="https://github.com/SamirPaul1"><img loading="lazy" alt="spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=abqd17yu8rqro3ydcfsv8sie6&cover_image=false&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></a>
+<a href="https://github.com/SamirPaul1"><img loading="lazy" alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=abqd17yu8rqro3ydcfsv8sie6&cover_image=false&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></a></p>  
+  
+# 📖 Latest Blog posts
+<!-- DEVDOJO:START -->
+<!-- DEVDOJO:END -->
+
 <a href="https://github.com/SamirPaul1"><img width="100%" height="2" loading="lazy" src="https://raw.githubusercontent.com/samirti/SamirPaul1/main/assets/long-colour-linestrip.png" /></a>
-</p>  
+
