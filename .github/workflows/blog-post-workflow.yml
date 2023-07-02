@@ -17,4 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://blog.samirpaul.in/atom.xml,https://samirpaul.in/feed.xml"
-          max_post_count: 30
+          max_post_count: 50
