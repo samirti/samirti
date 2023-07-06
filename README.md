@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/SamirPaul"><img loading="lazy" alt="LinkedIn" src="https://scdn.web.app/linkedin-samirpaul.svg"></a> &nbsp; 
   <a href="https://twitter.com/SamirPaulb"><img loading="lazy" alt="Twitter" src="https://scdn.web.app/twitter-samirpaulb.svg"></a> &nbsp; 
-  <a href="https://github.com/SamirPaul1"><img loading="lazy" src="https://camo.githubusercontent.com/546b4aa458ac9eeeaa55acb791a8d776692b5840ff49fe112e95900bee4afe39/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d53616d69725061756c31" /></a>  
+  <a href="https://github.com/SamirPaul1"><img loading="lazy" src="https://komarev.com/ghpvc/?username=SamirPaul1" /></a>
 </p>
 
 <!-- 
