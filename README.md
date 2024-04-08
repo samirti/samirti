@@ -17,6 +17,7 @@ https://img.shields.io/badge/-Twitter%20@SamirPaulb-white?style=social&logo=twit
   
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bhagavad Gita As It Is - A.C. Bhaktivedanta Swami Prabhupada - PDF](https://blog.samirpaul.in/2024/04/bhagavad-gita-as-it-is.html)
 - [Difference between Multiprogramming, Multitasking, Multithreading, and Multiprocessing](https://blog.samirpaul.in/2023/06/difference-between-multiprogramming.html)
 - [Difference between Multiprogramming and Multitasking in Operating System](https://blog.samirpaul.in/2023/06/difference-between-multiprogramming-and.html)
 - [Data Structures &amp; Algorithms for Coding Interview](https://blog.samirpaul.in/2022/07/dsalgo-repository-that-contains-all.html)
@@ -41,7 +42,6 @@ https://img.shields.io/badge/-Twitter%20@SamirPaulb-white?style=social&logo=twit
 - [Best Tech Keywords with High Google Adsense CPC](https://blog.samirpaul.in/2023/05/best-tech-keywords-with-high-google.html)
 - [Why is System Design So Important?](https://blog.samirpaul.in/2023/05/why-is-system-design-so-important.html)
 - [SQL vs. NoSQL](https://blog.samirpaul.in/2023/05/sql-vs-nosql.html)
-- [Python libraries for administrative interfaces](https://blog.samirpaul.in/2023/05/python-libraries-for-administrative.html)
 <!-- BLOG-POST-LIST:END -->
 
 
