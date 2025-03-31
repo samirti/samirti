@@ -29,7 +29,6 @@ https://img.shields.io/badge/-Twitter%20@SamirPaulb-white?style=social&logo=twit
 - [Design Pastebin.com &lpar;or Bit.ly&rpar;](https://samirpl.blogspot.com/2023/05/design-pastebincom-or-bitly.html)
 - [Design Mint.com](https://samirpl.blogspot.com/2023/05/design-mintcom.html)
 - [System Design Primer](https://samirpl.blogspot.com/2023/05/system-design-primer.html)
-- [URL Shortening Service](https://samirpl.blogspot.com/2023/05/url-shortening-service.html)
 - [Why Does The OSI Model Matter?](https://samirpl.blogspot.com/2023/05/why-does-osi-model-matter.html)
 - [Website Hosting Cloud VPS Domain Keywords with High Google Adsense CPC](https://samirpl.blogspot.com/2023/05/website-hosting-cloud-vps-domain.html)
 - [What is System Design?](https://samirpl.blogspot.com/2023/05/what-is-system-design.html)
@@ -42,6 +41,7 @@ https://img.shields.io/badge/-Twitter%20@SamirPaulb-white?style=social&logo=twit
 - [Why is System Design So Important?](https://samirpl.blogspot.com/2023/05/why-is-system-design-so-important.html)
 - [SQL vs. NoSQL](https://samirpl.blogspot.com/2023/05/sql-vs-nosql.html)
 - [Python libraries for administrative interfaces](https://samirpl.blogspot.com/2023/05/python-libraries-for-administrative.html)
+- [gaming library in python](https://samirpl.blogspot.com/2023/05/gaming-library-in-python.html)
 <!-- BLOG-POST-LIST:END -->
 
 
